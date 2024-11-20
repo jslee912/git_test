@@ -1,6 +1,7 @@
 """
 return true if the string doesn't have duplicate characters
-return false if the string has duplicate character by myself. 
+return false if the string has duplicate character by myself. ~~~~!! 
+
 """
 import unittest
 
