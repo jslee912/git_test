@@ -1,0 +1,2 @@
+github remot repository file
+new-origin master
